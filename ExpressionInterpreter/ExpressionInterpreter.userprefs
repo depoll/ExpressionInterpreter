@@ -1,0 +1,39 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.David's iPod touch" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Test.cs">
+    <Files>
+      <File FileName="Tests/Test.cs" Line="1159" Column="33" />
+      <File FileName="ExpressionInterpreter/ExpressionVisitor.cs" Line="1" Column="1" />
+      <File FileName="ExpressionInterpreter/ExpressionExtensions.cs" Line="1028" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="ExpressionInterpreter" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
+          <Node name="ExpressionInterpreter.iOS" expanded="True" />
+          <Node name="Tests" expanded="True">
+            <Node name="Test.cs" selected="True" />
+          </Node>
+          <Node name="Tests.iOS" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>expr12.Body</Value>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
